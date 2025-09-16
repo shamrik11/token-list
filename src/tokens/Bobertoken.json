@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "FdqNbEPYXQ5nBm4gMCFoKjtNcmffeQ2HfDXkahFpwMCM",
+  "symbol": "BBC",
+  "name": "Bobr Curva",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/shamrik11/LOGOS/main/bober.png",
+  "tags": [bobr],
+  "extensions": {
+    "website": ""
+  }
+}
